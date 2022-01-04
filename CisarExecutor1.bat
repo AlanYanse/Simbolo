@@ -5,7 +5,7 @@
 
 cd %~dp0
 
-set/p nombre_programa= Ingesar nombre del programa sin la extension
+set/p nombre_programa= Ingresar nombre del programa sin la extension
 
 color 05
 
